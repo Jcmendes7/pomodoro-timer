@@ -13,3 +13,20 @@ body {
     background-color: var(--gray-900);
     color: var(--text-default);
 }
+
+.form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 2.3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.formRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2.3rem;
+}

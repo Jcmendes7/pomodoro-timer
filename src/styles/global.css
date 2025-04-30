@@ -30,3 +30,7 @@ body {
     justify-content: center;
     gap: 2.3rem;
 }
+
+input:focus {
+    outline: none;
+}
